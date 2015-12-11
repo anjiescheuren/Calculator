@@ -1,37 +1,35 @@
-/*#userInput {
-  height: 25px;
+#userInput {
+  /*height: 25px;
   width: auto;
-  position: absolute;
+  position: absolute;*/
   text-align: center;
-  display:inline-block;
-
-}*/
+  /*display:inline-block;*/
+}
 
 #total {
   border: 1px solid lightGray;
   width: auto;
-  height: 30px;
+  height: auto;
   background-color: white;
   display: inline-block;
   margin: 20px 0 20px 0;
   position: relative;
-  top: 15px;
+  top: 25px;
   right: 19px;
-  padding: 0 10px 0 10px ;*/
+  padding: 10px 10px 10px 10px ;
+  vertical-align: center;
 }
 
 #window {
   margin: 0 35% 0 35%;
   border: 25px pink;
   padding: 10px;
-
 }
 
 #buttons {
   margin: 0 35% 0 35%;
   border: 25px pink;
   padding: 10px;
-
 }
 
 p {
