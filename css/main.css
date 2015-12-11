@@ -1,7 +1,7 @@
 #userInput {
   /*height: 25px;
-  width: auto;
-  position: absolute;*/
+  width: auto;*/
+  position: relative;
   text-align: center;
   /*display:inline-block;*/
 }
@@ -12,12 +12,11 @@
   height: auto;
   background-color: white;
   display: inline-block;
-  margin: 20px 0 20px 0;
+  /*margin: 20px 0 20px 0;*/
   position: relative;
   top: 25px;
-  right: 19px;
-  padding: 10px 10px 10px 10px ;
-  vertical-align: center;
+  /*right: 19px;*/
+  padding: 10px 10px 10px 10px;
 }
 
 #window {
@@ -27,9 +26,10 @@
 }
 
 #buttons {
-  margin: 0 35% 0 35%;
+  /*margin: 0 35% 0 35%;*/
   border: 25px pink;
   padding: 10px;
+  display: inline-block;
 }
 
 p {

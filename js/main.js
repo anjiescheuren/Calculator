@@ -5,9 +5,14 @@ $(function () {
   var total = 0;
 
 //clear window, stop addition
-    $('#clear').on('click', function() {
-    $('#total').text(0);
+  $('#clear').on('click', function() {
+  $('#total').text(0);
   });
+
+  $('#one').on('click', function() {
+    $('#userInput').text(1);
+
+    });
 
   $('#total').text(0);
 
