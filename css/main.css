@@ -1,0 +1,71 @@
+/*#userInput {
+  height: 25px;
+  width: auto;
+  position: absolute;
+  text-align: center;
+  display:inline-block;
+
+}*/
+
+#total {
+  border: 1px solid lightGray;
+  width: auto;
+  height: 30px;
+  background-color: white;
+  display: inline-block;
+  margin: 20px 0 20px 0;
+  position: relative;
+  top: 15px;
+  right: 19px;
+  padding: 0 10px 0 10px ;*/
+}
+
+#window {
+  margin: 0 35% 0 35%;
+  border: 25px pink;
+  padding: 10px;
+
+}
+
+#buttons {
+  margin: 0 35% 0 35%;
+  border: 25px pink;
+  padding: 10px;
+
+}
+
+p {
+  position:relative;
+  display: inline-block;
+  right:35px;
+  top: 25px;
+
+}
+
+ul {
+  list-style: none;
+  position: relative;
+  right: 38px;
+
+
+}
+li {
+  padding: 2px;
+  display: inline-block;
+
+}
+body {
+  margin: 10px;
+  text-align: center;
+  background-color: #B0F8E4;
+}
+button {
+  background-color: Pink:;
+
+}
+.title {
+  color: pink;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  padding: 10px 0 20px 0;
+}
